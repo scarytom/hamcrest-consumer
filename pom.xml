@@ -10,28 +10,28 @@
 
   <repositories>
     <repository>
-      <id>orghamcrest-480</id>
-      <url>https://oss.sonatype.org/content/repositories/orghamcrest-480/</url>
+      <id>orghamcrest-0</id>
+      <url>https://oss.sonatype.org/content/repositories/orghamcrest-858/</url>
     </repository>
     <repository>
-      <id>orghamcrest-481</id>
-      <url>https://oss.sonatype.org/content/repositories/orghamcrest-481/</url>
+      <id>orghamcrest-1</id>
+      <url>https://oss.sonatype.org/content/repositories/orghamcrest-859/</url>
     </repository>
     <repository>
-      <id>orghamcrest-482</id>
-      <url>https://oss.sonatype.org/content/repositories/orghamcrest-482/</url>
+      <id>orghamcrest-2</id>
+      <url>https://oss.sonatype.org/content/repositories/orghamcrest-860/</url>
     </repository>
     <repository>
-      <id>orghamcrest-483</id>
-      <url>https://oss.sonatype.org/content/repositories/orghamcrest-483/</url>
+      <id>orghamcrest-3</id>
+      <url>https://oss.sonatype.org/content/repositories/orghamcrest-861/</url>
     </repository>
     <repository>
-      <id>orghamcrest-484</id>
-      <url>https://oss.sonatype.org/content/repositories/orghamcrest-484/</url>
+      <id>orghamcrest-4</id>
+      <url>https://oss.sonatype.org/content/repositories/orghamcrest-862/</url>
     </repository>
     <repository>
-      <id>orghamcrest-485</id>
-      <url>https://oss.sonatype.org/content/repositories/orghamcrest-485/</url>
+      <id>orghamcrest-5</id>
+      <url>https://oss.sonatype.org/content/repositories/orghamcrest-863/</url>
     </repository>
   </repositories>
 
@@ -45,12 +45,12 @@
     <dependency>
       <groupId>org.hamcrest</groupId>
       <artifactId>hamcrest-library</artifactId>
-      <version>1.3.RC4</version>
+      <version>1.3</version>
     </dependency>
     <dependency>
       <groupId>org.hamcrest</groupId>
       <artifactId>hamcrest-core</artifactId>
-      <version>1.3.RC4</version>
+      <version>1.3</version>
     </dependency>
   </dependencies>
 </project>
